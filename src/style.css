@@ -1,0 +1,46 @@
+*
+{
+    background: linear-gradient(#e4e0ba, #f7d9aa);
+    margin: 0;
+    padding: 0%;
+}
+
+.webgl
+{
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+h1
+{
+    position:absolute;
+    color:#c9564f;
+    font-size:50px;
+    letter-spacing:-3px;
+    top:10px;
+    left:20%;
+    transform:translate(-50%,0%);
+    font-family:'Playfair Display';
+    text-align:left;
+}
+  
+h2
+{
+    position:absolute;
+    text-transform:uppercase;
+    text-align:left;
+    color:#c9564f;
+    line-height: 1.6;
+    width:500px;
+    font-size:10px;
+    top:70px;
+    left:20%;
+    transform:translate(-50%,0%);
+    letter-spacing:2px;
+}
+
+
+
+  
+  
